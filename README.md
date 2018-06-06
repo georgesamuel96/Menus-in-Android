@@ -1,11 +1,11 @@
-# screenShot of App
+# screenshot of App
 
 This project contains some menus in android
 
 ![screenshot_1528250873](https://user-images.githubusercontent.com/30288171/41012050-1c1f29da-6940-11e8-8285-0d02d4baad2a.png)
 
 
-# screenShot of menus
+# screenshot of menus
 
 Some of menus that be created by me {Navigation Drawer & Option Menu & Floating Action Button}
 
