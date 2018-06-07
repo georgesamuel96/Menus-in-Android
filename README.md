@@ -15,6 +15,10 @@ Some of menus that be created by me {Navigation Drawer & Option Menu & Floating 
 
 When you click on one of these items, the view color will be changed to that color
 
+## build.gradle(Module:app)
+    compile 'com.android.support:design:25.3.1'
+
+
 
 
 
